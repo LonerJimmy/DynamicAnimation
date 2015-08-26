@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">2d简易效果</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="spiral_view_width">250dp</string>
+    <string name="spiral_view_height">250dp</string>
+
+</resources>
